@@ -1,0 +1,12 @@
+.env
+.git
+.gitignore
+__pycache__
+*.pyc
+.pytest_cache
+tests
+README.md
+.venv
+venv
+reflexion-agent
+reflexion_agent_with_API
